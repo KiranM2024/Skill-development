@@ -5,7 +5,7 @@ int main() {
   scanf("%lf", &first);
   printf("Enter second number: ");
   scanf("%lf", &second);
-
+//akhil is joined
   // value of first is assigned to temp
   temp = first;
 
