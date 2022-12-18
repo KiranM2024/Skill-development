@@ -6,6 +6,7 @@ int main() {
   printf("Enter second number: ");
   scanf("%lf", &second);
 //akhil is joined
+printf("After swapping, second number = %.2lf", second);
   // value of first is assigned to temp
   temp = first;
 
